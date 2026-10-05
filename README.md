@@ -1,3 +1,5 @@
+ปลวัชร สุทธมา 673450473-2
+
 # Fetching Data - Next.js Authentication & RBAC
 
 โปรเจกต์ Web Application พัฒนาด้วย **Next.js + TypeScript** สำหรับศึกษาและทดลองใช้งานระบบ Authentication, Role-Based Access Control (RBAC), การ Fetch API และการจัดการข้อมูลด้วย Prisma
